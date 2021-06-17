@@ -7,3 +7,5 @@ get_headings(data_list): headings are calculated by using time and yaw rate data
 get_x_y(data_list): (x,y) tulips are calculated by using time, distance, and previously calculated headings with get_heading() function. Please note that trajectory is a list of tulips. Also, distance data gives the total distance traveled up to this point, not in each timestep.
 # Testing Code
 Next cells in the jupyter notebook contains testing codes.
+# Derivative and Integration Algorithms.ipynb
+This jupyter notebook contains simple codes for calculating the derivative and integration of continuous (analytical) functions and discrete real-world data.
